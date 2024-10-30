@@ -1,8 +1,11 @@
 .topo{
-    background-color: red;
+    background-color: gray;
 }
 .corpo{
-    background-color: blue;
-    font-size: 14px;
-    color: white;
+    background-color: orange;
+    font-size: 18px;
+}
+
+.convidado{
+
 }
